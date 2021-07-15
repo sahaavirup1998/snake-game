@@ -1,4 +1,4 @@
-//game constants and vairab
+//game constants and vairable
 let inputDir = {x:0, y:0};
 const foodSound = new Audio("food.mp3"); 
 const gameOverSound = new Audio("end.mp3");
